@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "JOKENPO 2",
+    "slug": "snack-3497c3c2-e2a1-4677-a9d5-49cfd5b08679",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./imgs/jogadores.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./imgs/jogadores.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./imgs/jogadores.png"
+    }
+  }
+}
